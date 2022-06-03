@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="KxABC">
-    <version>v22.05.29.18058</version>
-    <url>https://github.com/e23099/MySharpUpdate/raw/main/NetCrypto/NetCrypto_v22.05.29.18058.zip</url>
+    <version>v00.01.01.00000</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxABC/KxABC_v00.01.01.00000.zip</url>
     <fileName>meimei.exe</fileName>
     <description>v22.05.29.18058: fix CalcReportProfit
 </description>
@@ -11,6 +11,6 @@
     <files dir="..\ABC\ABC\ABC\bin\Debug\">
       <file>meimei.exe</file>
     </files>
-    <md5>f32ca6435766bee5835b3e618c719ece</md5>
+    <md5>02983e0b98db38122d972579f308c169</md5>
   </update>
 </MySharpUpdate>
