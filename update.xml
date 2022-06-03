@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="KxABC">
-    <version>v00.01.01.00000</version>
-    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxABC/KxABC_v00.01.01.00000.zip</url>
+    <version>v22.06.03.17805</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxABC/KxABC_v22.06.03.17805.zip</url>
     <fileName>meimei.exe</fileName>
-    <description>v22.05.29.18058: fix CalcReportProfit
+    <description>v22.06.03.17805: init KxABC
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\ABC\ABC\ABC\bin\Debug\">
       <file>meimei.exe</file>
     </files>
-    <md5>02983e0b98db38122d972579f308c169</md5>
+    <md5>150a128beedfcab1a07ad9aee6b884f5</md5>
   </update>
 </MySharpUpdate>
