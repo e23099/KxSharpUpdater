@@ -67,6 +67,11 @@ namespace KxSharpUpdater
         private static string GetVersion(string exename)
         {
             var versionInfo = FileVersionInfo.GetVersionInfo(exename);
+            if (versionInfo.ProductVersion == null)
+            {
+                DateTime lastModify = File.GetLastWriteTimeUtc(exename);
+                return $"v{lastModify.ToString("yy.MM.dd.ssfff")}";
+            }
             Version ver = new Version(versionInfo.ProductVersion);
             DateTime buildDateTime = new DateTime(2000, 1, 1).Add(new TimeSpan(TimeSpan.TicksPerDay * ver.Build)); // days since 1 January 2000
             return string.Format("v{0:yy.MM.dd}.{1:00000}", buildDateTime, ver.Revision);
