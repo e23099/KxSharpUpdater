@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="KxABC">
-    <version>v22.06.08.26715</version>
-    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxABC/KxABC_v22.06.08.26715.zip</url>
+    <version>v22.06.09.29027</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxABC/KxABC_v22.06.09.29027.zip</url>
     <fileName>meimei.exe</fileName>
-    <description>v22.06.08.26715:
+    <description>v22.06.09.29027:
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\ABC\ABC\ABC\bin\Debug\">
       <file>meimei.exe</file>
     </files>
-    <md5>4c6c07b5ab63e686e5a94067b2908993</md5>
+    <md5>b5c868fd2577e7d9590b7284e92d75a1</md5>
   </update>
   <update appID="KxUser">
     <version>v22.06.07.32857</version>
