@@ -13,4 +13,18 @@
     </files>
     <md5>736afe7e79f41cb9a15d64af34901903</md5>
   </update>
+  <update appID="KxUser">
+    <version>
+    </version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxUser/KxUser_.zip</url>
+    <fileName>meimei.exe</fileName>
+    <description>:
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\KxUser\KxUser\bin\Debug\">
+      <file>KxUser.exe</file>
+    </files>
+    <md5>406acef278ca56479a2588754edce1b5</md5>
+  </update>
 </MySharpUpdate>
