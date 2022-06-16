@@ -14,16 +14,16 @@
     <md5>6054cdf4754c8a9ea01f6a477c33d3cb</md5>
   </update>
   <update appID="KxUser">
-    <version>v22.06.14.26959</version>
-    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxUser/KxUser_v22.06.14.26959.zip</url>
+    <version>v22.06.16.17984</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxUser/KxUser_v22.06.16.17984.zip</url>
     <fileName>KxUser.exe</fileName>
-    <description>v22.06.14.26959:
+    <description>v22.06.16.17984:
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\KxUser\KxUser\bin\Debug\">
       <file>KxUser.exe</file>
     </files>
-    <md5>299f120d8097d7ff966ff230b3b680da</md5>
+    <md5>34438e989c15080629cb92102a5381b3</md5>
   </update>
 </MySharpUpdate>
