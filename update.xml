@@ -1,16 +1,17 @@
 <?xml version="1.0"?>
 <MySharpUpdate>
   <update appID="KxABC">
-    <version>v22.06.20.19097</version>
-    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxABC/KxABC_v22.06.20.19097.zip</url>
+    <version>v22.06.20.20700</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxABC/KxABC_v22.06.20.20700.zip</url>
     <fileName>meimei.exe</fileName>
-    <description>v22.06.20.19097: fix 合約 bug</description>
+    <description>v22.06.20.20700:
+</description>
     <launchArgs>
     </launchArgs>
     <files dir="..\ABC\ABC\ABC\bin\Debug\">
       <file>meimei.exe</file>
     </files>
-    <md5>04d93d050b9922db040f75e216024145</md5>
+    <md5>e95e33fe98a2846e8d880d95524103dd</md5>
   </update>
   <update appID="KxUser">
     <version>v22.06.16.17984</version>
