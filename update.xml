@@ -26,4 +26,18 @@
     </files>
     <md5>34438e989c15080629cb92102a5381b3</md5>
   </update>
+  <update appID="KxSpot">
+    <version>
+    </version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxSpot/KxSpot_.zip</url>
+    <fileName>KxUser.exe</fileName>
+    <description>:
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\KxSpot\KxSpot\bin\Debug">
+      <file>KxSpot.exe</file>
+    </files>
+    <md5>ce29037b2ee916e5d4e6ac1abc1ef3a7</md5>
+  </update>
 </MySharpUpdate>
