@@ -35,9 +35,9 @@
 </description>
     <launchArgs>
     </launchArgs>
-    <files dir="..\KxSpot\KxSpot\bin\Debug">
+    <files dir="..\KxSpot\KxSpot\bin\Debug\">
       <file>KxSpot.exe</file>
     </files>
-    <md5>ce29037b2ee916e5d4e6ac1abc1ef3a7</md5>
+    <md5>33d6dbf9a14565720fd09b7c6ff6db41</md5>
   </update>
 </MySharpUpdate>
