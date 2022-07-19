@@ -27,11 +27,10 @@
     <md5>34438e989c15080629cb92102a5381b3</md5>
   </update>
   <update appID="KxSpot">
-    <version>
-    </version>
-    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxSpot/KxSpot_.zip</url>
-    <fileName>KxUser.exe</fileName>
-    <description>:
+    <version>v22.07.19.29005</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxSpot/KxSpot_v22.07.19.29005.zip</url>
+    <fileName>KxSpot.exe</fileName>
+    <description>v22.07.19.29005: First Version
 </description>
     <launchArgs>
     </launchArgs>
