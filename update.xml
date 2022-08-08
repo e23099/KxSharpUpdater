@@ -27,16 +27,16 @@
     <md5>34438e989c15080629cb92102a5381b3</md5>
   </update>
   <update appID="KxSpot">
-    <version>v22.07.27.29220</version>
-    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxSpot/KxSpot_v22.07.27.29220.zip</url>
+    <version>v22.08.08.15135</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxSpot/KxSpot_v22.08.08.15135.zip</url>
     <fileName>KxSpot.exe</fileName>
-    <description>v22.07.27.26509:
+    <description>v22.08.08.15135:
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\KxSpot\KxSpot\bin\Debug\">
       <file>KxSpot.exe</file>
     </files>
-    <md5>81310d0345805f280c6ceb21f1bd0bb5</md5>
+    <md5>993a247e0e7d1bb9b09bd4df2ad0cd4f</md5>
   </update>
 </MySharpUpdate>
