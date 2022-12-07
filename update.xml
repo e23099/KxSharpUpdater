@@ -8,23 +8,36 @@
 </description>
     <launchArgs>
     </launchArgs>
-    <files dir="..\ABC\ABC\ABC\bin\Debug\">
+    <files dir="..\KxABC\ABC\bin\Debug\">
       <file>meimei.exe</file>
     </files>
     <md5>e95e33fe98a2846e8d880d95524103dd</md5>
   </update>
+  <update appID="KxBDS">
+    <version>v22.06.20.20700</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxABC/KxABC_v22.06.20.20700.zip</url>
+    <fileName>KxBDS.exe</fileName>
+    <description>v22.06.20.20700:
+</description>
+    <launchArgs>
+    </launchArgs>
+    <files dir="..\KxBDS\src\bin\Debug\">
+      <file>KxBDS.exe</file>
+    </files>
+    <md5>e95e33fe98a2846e8d880d95524103dd</md5>
+  </update>
   <update appID="KxUser">
-    <version>v22.06.16.17984</version>
-    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxUser/KxUser_v22.06.16.17984.zip</url>
+    <version>v22.12.07.39578</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxUser/KxUser_v22.12.07.39578.zip</url>
     <fileName>KxUser.exe</fileName>
-    <description>v22.06.16.17984:
+    <description>v22.12.07.39578:
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\KxUser\KxUser\bin\Debug\">
       <file>KxUser.exe</file>
     </files>
-    <md5>34438e989c15080629cb92102a5381b3</md5>
+    <md5>3d5c61730f626270b7b554874dd4be20</md5>
   </update>
   <update appID="KxSpot">
     <version>v22.08.09.19404</version>
