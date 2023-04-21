@@ -40,16 +40,16 @@
     <md5>3d5c61730f626270b7b554874dd4be20</md5>
   </update>
   <update appID="KxSpot">
-    <version>v22.08.09.19404</version>
-    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxSpot/KxSpot_v22.08.09.19404.zip</url>
+    <version>v23.04.21.42554</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxSpot/KxSpot_v23.04.21.42554.zip</url>
     <fileName>KxSpot.exe</fileName>
-    <description>v22.08.09.19404:
+    <description>v23.04.21.42554:  Fix MinNotional API removed issue.
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\KxSpot\KxSpot\bin\Debug\">
       <file>KxSpot.exe</file>
     </files>
-    <md5>282980ddaad0598ba780e6f119241a7b</md5>
+    <md5>6d2c291acced48ae28a7d89461285365</md5>
   </update>
 </MySharpUpdate>
