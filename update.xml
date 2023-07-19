@@ -40,16 +40,16 @@
     <md5>3d5c61730f626270b7b554874dd4be20</md5>
   </update>
   <update appID="KxSpot">
-    <version>v23.07.19.40640</version>
-    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxSpot/KxSpot_v23.07.19.40640.zip</url>
+    <version>v23.07.20.00089</version>
+    <url>https://github.com/e23099/KxSharpUpdater/raw/main/KxSpot/KxSpot_v23.07.20.00089.zip</url>
     <fileName>KxSpot.exe</fileName>
-    <description>v23.07.19.40640: Fix quoteOrderQtyMarketAllowed:false issue in BinanceAgent.ExchangeCoin method.
+    <description>v23.07.20.00089:
 </description>
     <launchArgs>
     </launchArgs>
     <files dir="..\KxSpot\KxSpot\bin\Debug\">
       <file>KxSpot.exe</file>
     </files>
-    <md5>1198571e21387621fabf324c151e8b13</md5>
+    <md5>55f144078fa575e3733ca7330e60409c</md5>
   </update>
 </MySharpUpdate>
